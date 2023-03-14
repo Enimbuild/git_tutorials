@@ -1,2 +1,2 @@
 # git_tutorials
-This is a summary of the important command or cheatsheets of Git
+This is a summary of the important commands or cheatsheets of Git
